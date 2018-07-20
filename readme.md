@@ -21,8 +21,8 @@ Feel free to fork and customize it to your needs, I'll endeavour to keep this as
 
 If you see an error or something that could be improved, log an issue and I'll check it out or if you just need a hand getting it to run.
 
-Very Best,
-
+Enjoy,
 
 
 John Griffiths
+www.thundermaw.com
