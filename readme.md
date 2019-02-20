@@ -17,6 +17,10 @@ Along with that formik (good library for signup forms), lodash & moment, react-h
 When you switch over to Webpack 4 you have to switch your css compiler to *mini-css-extract-plugin* as *extract-text-webpack-plugin* is no longer supported in 4.
 However mini-css-extract-plugin doesn't support hot-reloading yet but you can do it style-loader so for development we use style-loader and building production mini-css-extract-plugin.
 
+    code snippet
+    
+
+
 ### And finally...
 
 Feel free to fork and customize it to your needs, I'll endeavour to keep this as up-to-date as possible while I'm working on other projects.
