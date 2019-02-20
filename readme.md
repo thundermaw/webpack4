@@ -28,3 +28,5 @@ Enjoy,
 
 John Griffiths
 www.thundermaw.com
+
+[contributing guideline](https://github.com/thundermaw/webpack4/issues/2)
