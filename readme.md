@@ -6,7 +6,7 @@
 * Babel (ES6)
 * React
 
-### notes
+### Notes
 
 I've also included the i18n plugin I use a lot for internationalization, i18n-next I've found to be really useful at adding multiple language support to an app.
 
@@ -27,7 +27,7 @@ Feel free to fork and customize it to your needs, I'll endeavour to keep this as
 
 If you see an error or something that could be improved, log an issue and I'll check it out or if you just need a hand getting it to run.
 
-Enjoy,
+Regards,
 
 
 John Griffiths
