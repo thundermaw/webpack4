@@ -6,6 +6,8 @@
 * Babel (ES6)
 * React
 
+### notes
+
 I've also included the i18n plugin I use a lot for internationalization, i18n-next I've found to be really useful at adding multiple language support to an app.
 
 Along with that formik (good library for signup forms), lodash & moment, react-helmet for adding meta tags on-the-fly to the page and superagent for ajax requests.
